@@ -5,7 +5,7 @@
 - 📫 reach me on GitHub ...
 
 #i realizie below is an informational text explaining this file to me
-#also this is just a personal test message for a thing
+#also this is just a personal test message for things
 <!---
 xKALiber1/xKALiber1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
